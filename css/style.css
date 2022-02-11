@@ -1,0 +1,51 @@
+
+
+.arama {
+    margin: auto;
+    width: 94%;
+    padding: auto;
+    background-color: rgb(223, 217, 217);
+    text-align: center;
+    
+}
+
+button {
+    margin: auto;
+    
+}
+
+section {
+    margin: auto;
+    margin-top: 2px;
+    display: flex;
+}
+
+.special {
+    background-color: aqua;
+    float: left;
+    width: 40%;
+    margin: 0 1% 0 3%;
+    text-align: center;
+    padding: auto;
+}
+.help {
+    font-size: smaller;
+    background-color: rgb(77, 197, 197);
+    width: 18%;
+    float: left;
+    margin-right: 1%;
+    text-align: center;
+    
+}
+.get {
+    font-size: smaller;
+    background-color: rgb(70, 167, 167);
+    float: left;
+    width: 34%;
+    text-align: center;
+    
+}
+footer {
+    font-size: smaller;
+    text-align: center;
+}
